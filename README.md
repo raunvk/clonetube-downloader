@@ -19,4 +19,4 @@ For Windows OS:
 
 Sample Screenshot :
 
-![](sample.png)
+![](screenshot.png)
