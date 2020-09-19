@@ -13,7 +13,7 @@ For Unix-like OS :
 
 For Windows OS:
 
-1. Run executable file [clonetube.exe]
+1. Run executable file to the run the program [clonetube.exe]
 
 2. If Windows fail to run [clonetube.exe], then turnoff real-time protection in Windows Security
 
