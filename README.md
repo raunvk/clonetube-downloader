@@ -1,5 +1,5 @@
 
-# clonetube-downloader-gui
+# clonetube-downloader
 
 Description : GUI YouTube Downloader
 
