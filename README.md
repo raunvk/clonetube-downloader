@@ -1,7 +1,7 @@
 
 # clonetube-downloader
 
-Description : GUI YouTube Downloader
+Description : GUI based YouTube Downloader
 
 Disclaimer : Make sure you have Python3 installed in your System
 
