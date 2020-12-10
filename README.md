@@ -13,9 +13,9 @@
 
 **For Windows OS** :
 
-1. Run executable file to the run the program [**clonetube.exe**]
+1. Run executable file **clonetube.exe** to the run the program
 
-2. If Windows fail to run [**clonetube.exe**], then turnoff **Real-Time Protection in Windows Security** and re-run
+2. If Windows fail to run **clonetube.exe**, then turnoff **Real-Time Protection in Windows Security** and re-run
 
 **Sample Screenshot** :
 
