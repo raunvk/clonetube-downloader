@@ -3,7 +3,7 @@
 
 **Description** : GUI based YouTube Downloader
 
-**Disclaimer** : Make sure you have Python3 installed in your System
+**Requisite** : Make sure you have Python3 installed in your System
 
 **For Unix-like OS** :
 
@@ -15,7 +15,7 @@
 
 1. Run executable file to the run the program [**clonetube.exe**]
 
-2. If Windows fail to run [**clonetube.exe**], then turnoff **Real-Time Protection in Windows Security**
+2. If Windows fail to run [**clonetube.exe**], then turnoff **Real-Time Protection in Windows Security** and re-run
 
 **Sample Screenshot** :
 
