@@ -1,7 +1,7 @@
 
 # clonetube-downloader
 
-**Description** : GUI based YouTube Downloader
+**Description** : GUI based YouTube MP3/MP4 Downloader
 
 **Requisite** : Make sure you have Python3 and Pip installed in your System
 
